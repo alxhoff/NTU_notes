@@ -11,3 +11,6 @@ YouTube lectures: https://www.youtube.com/channel/UCPv4f5pMBkKm1Pvek3Ep0sA
 
 Yahtzee code: https://github.com/alxhoff/empty-c-project/tree/yahtzee
 
+Emulator Documentation: https://alxhoff.github.io/FreeRTOS-Emulator/
+
+FreeRTOS Documentation: https://www.freertos.org/a00125.html
