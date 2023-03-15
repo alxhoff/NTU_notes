@@ -18,3 +18,7 @@ FreeRTOS Documentation: https://www.freertos.org/a00125.html
 ## Exercise
 
 Create two tasks, task 1 (use vDemoTask1) is created with a higher priority than task 2 (create this task), task 1 signals task 2 with a semaphore (task 2 blocks waiting for this) to wake up and increment a locked (mutex) global variable which is then sent back to task 1, using a queue, which is waiting for this value.
+
+### Answers
+
+https://github.com/alxhoff/FreeRTOS-Emulator/tree/exercise_answers
