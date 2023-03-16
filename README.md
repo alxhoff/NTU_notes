@@ -21,4 +21,10 @@ Create two tasks, task 1 (use vDemoTask1) is created with a higher priority than
 
 ### Answers
 
+#### Communicating tasks
+
 https://github.com/alxhoff/FreeRTOS-Emulator/tree/exercise_answers
+
+#### Flashing circles
+
+https://github.com/alxhoff/FreeRTOS-Emulator/tree/flashing_circle_answers
